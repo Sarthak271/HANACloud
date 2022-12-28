@@ -1,0 +1,6 @@
+COLUMN TABLE "Training::Employee" (
+    "ID" Integer,
+    "NAME" Nvarchar(50),
+    "Surname" Nvarchar(100),
+    "Salary" Double
+)

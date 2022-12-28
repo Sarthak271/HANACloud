@@ -1,0 +1,17 @@
+{
+    "role": {
+      "name": "TRNG_ROLE",
+      "schema_privileges": [
+        {
+          "privileges": [
+            "SELECT",
+            "INSERT",
+            "UPDATE",
+            "DELETE",
+            "EXECUTE",
+            "ALTER"
+          ]
+        }
+      ]
+    }
+  }

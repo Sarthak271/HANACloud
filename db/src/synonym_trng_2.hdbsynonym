@@ -1,0 +1,8 @@
+{
+  "EMPLOYEE": {
+    "target": {
+      "object": "Employee_trng",
+      "schema": "DBADMIN"
+    }
+  }
+}
